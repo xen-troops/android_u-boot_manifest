@@ -35,7 +35,7 @@
   <project name="platform/external/rust/crates/zerocopy-derive" path="external/rust/crates/zerocopy-derive" revision="e31ff4fde30f2bef09ae8f20b93d57b9040c7c1c"/>
   <project name="platform/external/stardoc" path="external/stardoc" revision="85b0f239303220d902ad919ff27d2da475fc12e2"/>
   <project name="platform/external/swig" path="external/swig" revision="6ffc1dbf29ba98c4d8aa71ebc9b484e973fe1030"/>
-  <project name="u-boot" path="u-boot" revision="xenvm-trout-main-18_10_23" remote="xt">
+  <project name="u-boot" path="u-boot" revision="xenvm-gen5-04.2023" remote="xt">
     <linkfile src="." dest=".source_date_epoch_dir"/>
     <linkfile src="bazel.WORKSPACE" dest="WORKSPACE"/>
   </project>
